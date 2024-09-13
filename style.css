@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+    height: 100vh;
+    display: flex;
+}
+img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+h1{
+    margin-top: 10px;
+    text-align: center;
+    font-size:100px;
+}
+.container{
+    text-align: center;
+}
